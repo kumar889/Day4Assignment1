@@ -1,0 +1,40 @@
+.main-box{
+    width: 98%;
+    height: 625px;
+    border: 1px solid black;
+    margin: auto;
+    padding: 10px;
+}
+.top-box{
+    width: 98%;
+    height: 300px;
+    border: 1px solid red;
+    padding: 10px;
+}
+.first-box{
+    width: 98%;
+    height: 120px;
+    border: 1px solid blue;
+    padding: 10px;
+}
+.first-box-inner{
+    width: 96%;
+    height: 60px;
+    border: 1px solid pink;
+    background: pink;
+    padding: 25px;
+}
+.second-box{
+    width: 98%;
+    height: 120px;
+    border: 1px solid green;
+    padding: 10px;
+    margin-top: 10px;
+}
+.second-box-inner{
+    width: 96%;
+    height: 60px;
+    border: 1px solid grey;
+    background:grey;
+    padding: 25px;
+}
